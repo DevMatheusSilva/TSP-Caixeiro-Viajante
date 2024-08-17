@@ -29,9 +29,9 @@ Contribuições são bem-vindas! Se você deseja contribuir, por favor, siga os 
    ```
 5. Crie um Pull Request.
 
-## Contato 📳
+## Contato 
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente:
 
 - [Email](mailto:matheusmello225@gmail.com)
-- [LinkedIn](www.linkedin.com/in/matheus-silva-ggn1089)
+- [LinkedIn](https://www.linkedin.com/in/matheus-silva-ggn1089/)
